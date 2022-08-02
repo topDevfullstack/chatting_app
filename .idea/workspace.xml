@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="706f5806-34dd-49bc-bf2c-bdef57d02937" name="Default Changelist" comment="regre" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\Admin\AndroidStudioProjects\akwal_w7ikam_lkotab\hikamw2kwalapp.jks" />
+    <option name="KEY_ALIAS" value="bob" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pU9lu43V0drQmEtcELFQ8gBhOp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$/.." />
+    <property name="ApkExportedModule" value="akwal_w7ikam_lkotab_android" />
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\AndroidStudioProjects\akwal_w7ikam_lkotab\akwal_w7ikam_lkotab\assets" />
+      <recent name="C:\Users\Admin\AndroidStudioProjects\akwal_w7ikam_lkotab\akwal_w7ikam_lkotab\fonts" />
+      <recent name="C:\Users\Admin\AndroidStudioProjects\akwal_w7ikam_lkotab\akwal_w7ikam_lkotab\lib\savedquoterpage" />
+      <recent name="C:\Users\Admin\AndroidStudioProjects\akwal_w7ikam_lkotab\akwal_w7ikam_lkotab\lib\writers" />
+      <recent name="C:\Users\Admin\AndroidStudioProjects\akwal_w7ikam_lkotab\akwal_w7ikam_lkotab\lib\homepagequotes" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\AndroidStudioProjects\akwal_w7ikam_lkotab\akwal_w7ikam_lkotab\assets" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="706f5806-34dd-49bc-bf2c-bdef57d02937" name="Default Changelist" comment="" />
+      <created>1615226955418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615226955418</updated>
+    </task>
+    <task id="LOCAL-00001" summary="regre">
+      <created>1643036619822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643036619822</updated>
+    </task>
+    <task id="LOCAL-00002" summary="regre">
+      <created>1643043510212</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643043510212</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="regre" />
+    <option name="LAST_COMMIT_MESSAGE" value="regre" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="405" y="147" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1643031725033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="405" y="147" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1643031725033" />
+    <state x="119" y="100" width="1129" height="528" key="DiffContextDialog" timestamp="1643043657799">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="119" y="100" width="1129" height="528" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1643043657799" />
+    <state x="175" y="16" key="Vcs.Push.Dialog.v2" timestamp="1643043517786">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="16" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1643043517786" />
+    <state x="449" y="261" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1643043653900">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="449" y="261" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1643043653900" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/homepagequotes/search provider.dart</url>
+          <line>107</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/homepagequotes/search provider.dart</url>
+          <line>111</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/quotes_page/quotes_home.dart</url>
+          <line>453</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/quotes_page/quotes_home.dart</url>
+          <line>1772</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/quotes_page/quotes_home.dart</url>
+          <line>1768</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/homepagequotes/search provider.dart</url>
+          <line>246</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

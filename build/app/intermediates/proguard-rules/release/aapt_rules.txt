@@ -1,0 +1,6 @@
+# Referenced at C:\Users\Admin\AndroidStudioProjects\akwal_w7ikam_lkotab\akwal_w7ikam_lkotab\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:11
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\Admin\AndroidStudioProjects\akwal_w7ikam_lkotab\akwal_w7ikam_lkotab\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:15
+-keep class com.hikam_ektibasat.bob.MainActivity { <init>(); }
+# Referenced at C:\Users\Admin\AndroidStudioProjects\akwal_w7ikam_lkotab\akwal_w7ikam_lkotab\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:57
+-keep class io.flutter.plugins.share.ShareFileProvider { <init>(); }
